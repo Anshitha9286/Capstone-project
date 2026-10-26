@@ -1,0 +1,7 @@
+step,rows_before,rows_after,rows_removed
+Drop exact duplicate rows,1067371,1033036,34335
+Move cancellation invoices to returns table,1033036,1013932,19104
+Move Quantity<=0 or Price<=0 rows to adjustments table,1013932,1007913,6019
+Move non-product stock codes to non_products table,1007913,1003214,4699
+Fill missing descriptions (0 left as UNKNOWN),1003214,1003214,0
+Drop duplicates revealed after fixing descriptions,1003214,1003214,0

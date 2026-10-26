@@ -1,0 +1,16 @@
+{
+  "churn_auc_logistic": 0.7997812447540709,
+  "churn_auc_forest": 0.8011163337250293,
+  "churn_rate": 0.47885043513458814,
+  "data_end": "2011-12-08",
+  "report": [
+    "Revenue for 02 Dec to 08 Dec 2011 was \u00a3365,791, +23.4% versus the previous week and +20.7% versus the same week last year.",
+    "There were 651 orders with an average order value of \u00a3562.",
+    "The best day was Monday 05 Dec with \u00a380,011.",
+    "The top product was Rabbit Night Light (\u00a37,857).",
+    "The strongest export market was Netherlands (\u00a311,728); exports were 10% of the week's revenue.",
+    "No unusual days were detected in the last 28 days.",
+    "59 high-value customers (top 20% by spend) are rated high churn risk, with \u00a3536,066 in lifetime spend.",
+    "The forecast for the next 28 days is \u00a3478,169 (+5.1% versus the same period last year), with 13 of the 28 days expected to have no sales (Saturdays and the Christmas closure). In a test on the previous Christmas period, this method was within about 5% of the actual total."
+  ]
+}
