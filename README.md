@@ -3,7 +3,7 @@
 An end-to-end analytics project on the Online Retail II dataset: data cleaning, exploratory analysis, customer segmentation, churn prediction, sales forecasting (including deep learning), anomaly detection and automated weekly insight generation, delivered as a Streamlit dashboard.
 
 **Live app:** 
-https://capstone-project-xsuzbrjviw2gx9ttkud75s.streamlit.app/
+https://retail-sales-analytics-ai.streamlit.app/
 
 ## Problem
 Dashboards show numbers, but an analyst still has to clean the data, find the patterns, forecast the next period and write the summary by hand. This project automates that chain: the same pipeline cleans the data, models it and writes the weekly report.
