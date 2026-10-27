@@ -4,7 +4,6 @@ import streamlit as st
 
 from utils import load, load_json
 
-st.set_page_config(page_title="Customers", page_icon="👥", layout="wide")
 st.title("Customers: segments and churn risk")
 
 cust = load("customers_rfm_churn")
